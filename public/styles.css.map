@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/adm-eng-jeh15/repository/quickstart",
+	"sourceRoot": "/Users/adm-eng-jeh15/repository/jeh15.github.io",
 	"sources": [
 		"css/base.scss",
 		"themes/re-terminal/assets/css/variables.scss",
